@@ -159,6 +159,12 @@ ul, li{
     letter-spacing: 0.01em;
 }
 
+.form label{
+    margin-bottom: 4px;
+    font-size: 12px;
+    line-height: 1.2;
+    letter-spacing: 0.01em;
+}
 
 .form-button{
     display: inline-flex;
@@ -821,7 +827,7 @@ address{
 
 
 .subscribe-newsletter{
-    margin-left: 92px;
+    margin-left: auto;
     
   }
 
